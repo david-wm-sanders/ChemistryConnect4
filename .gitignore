@@ -1,0 +1,10 @@
+# .NET
+bin/
+obj/
+publish/
+
+# VS
+*.csproj.user
+
+# Keys
+*.pfx
